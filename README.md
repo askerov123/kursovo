@@ -1,1 +1,41 @@
-# diplom
+<html>
+<head>
+<link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+  <iframe width="560" height="315" src="https://rutube.ru/video/aeef8e5b58f934ed6b3414e75276b363/?r=wd" frameborder="0" allowfullscreen></iframe>
+<H2>Маркированный список</H2>
+<ul type=’circle’>
+<li>Яблоко</li>
+<li type=’disk’>Груша</li>
+<li>Слива</li>
+<li type=’square’>Вишня</li>
+<li>Черешня</li>
+</ul><H2>Многоуровневый список</H2>
+<ol>
+<li>Нумерованный</li>
+<ol>
+<li>Пункт 1</li>
+<li>Пункт 2</li>
+<li>Пункт 3</li>
+</ol>
+<li>Маркированный</li>
+<ul>
+<li>Первый вариант</li>
+<li>Второй вариант</li>
+<li>Третий вариант</li>
+</ul>
+</ol>
+Текст страницы 
+<font color=’#FF0000’></fon>
+<pre>
+Эта таблица создана при помощи знака табуляции
+Фамилия Имя Отчество Год рождения
+Иванов Иван Иванович 1985
+Петров Петр Петрович 1878
+</pre>
+<font color=’red’></font><p>  
+<sup>конец.</sup></p>
+<img src="pngl.jpg">
+</body>
+</html>
